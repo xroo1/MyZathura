@@ -1,0 +1,6 @@
+set statusbar-h-padding 0
+set statusbar-w-padding 0
+
+map r reload
+map i recolor
+map W toggle_paga_mode
